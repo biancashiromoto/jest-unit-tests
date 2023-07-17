@@ -27,7 +27,6 @@ This project was developed as part of the Trybe Web Development course, where I 
       <li>The <code>average</code> function accepts an array of variable length and returns the average of the recieved values. </li>
       <li>In case it recieves a non numerical value or an empty array, the value <code>undefined</code> must be returned.</li> 
       <li>All the results must be round to integer values.</li>
-       ❌ This function still does not have tests implemented
   </details>
   <br>
   <details>
@@ -42,10 +41,8 @@ This project was developed as part of the Trybe Web Development course, where I 
   </summary>
   <li>Use template literals to write the function <code>vqv</code>, which accepts a name and age and returns the following paragraph:<br>
   
-    "Oi, meu nome é Tunico!
-    Tenho 30 anos,
-    trabalho na Trybe e mando muito em programação!
-    #VQV!"
+    "Oi, meu nome é { name }!
+    Tenho { age } anos"
    <br>
   </li>
   <li>In case the function is called with no parameter, the value <code>undefined</code> must be returned.</li>
@@ -56,7 +53,6 @@ This project was developed as part of the Trybe Web Development course, where I 
   <summary>4. Implement the test cases for the function <code>circle</code>
   </summary>
   <li>The function <code>circle</code> accepts a numeric value and returns an object containing radius, area and circumference based on the provided radio value.</li>
-  <li>Implement at least six test cases for this function.</li>
 </details>
 <br>
 <details>
