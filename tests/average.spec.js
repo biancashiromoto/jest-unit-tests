@@ -1,7 +1,7 @@
 const average = require('../src/average');
 
 describe('1 - Implement the test cases for the function average', () => {
-  it('Should return "undefined" if it recieves an empty array', () => {
+  it('Should return "undefined" if it receives an empty array', () => {
     expect(typeof average([])).toBeUndefined();
   });
   it('Should return "undefined" if the recieved array contains a non numerical value', () => {
