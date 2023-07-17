@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1689634027417" clover="3.2.0">
-  <project timestamp="1689634027417" name="All files">
-    <metrics statements="47" coveredstatements="47" conditionals="18" coveredconditionals="18" methods="10" coveredmethods="10" elements="75" coveredelements="75" complexity="0" loc="47" ncloc="47" packages="1" files="8" classes="8"/>
+<coverage generated="1689632134667" clover="3.2.0">
+  <project timestamp="1689632134667" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="14" coveredconditionals="14" methods="7" coveredmethods="7" elements="60" coveredelements="60" complexity="0" loc="39" ncloc="39" packages="1" files="6" classes="6"/>
     <file name="average.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/average.js">
       <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="14" count="1" type="stmt"/>
@@ -19,16 +19,10 @@
     <file name="circle.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/circle.js">
       <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="21" count="1" type="stmt"/>
-      <line num="22" count="7" type="stmt"/>
-      <line num="24" count="7" type="cond" truecount="4" falsecount="0"/>
-      <line num="26" count="5" type="stmt"/>
+      <line num="22" count="10" type="stmt"/>
+      <line num="24" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="26" count="8" type="stmt"/>
       <line num="33" count="1" type="stmt"/>
-    </file>
-    <file name="createStudent.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/createStudent.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="17" count="1" type="stmt"/>
-      <line num="19" count="1" type="stmt"/>
-      <line num="24" count="1" type="stmt"/>
     </file>
     <file name="getCharacter.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/getCharacter.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
@@ -45,9 +39,9 @@
     <file name="numbers.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/numbers.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="11" count="1" type="stmt"/>
-      <line num="12" count="3" type="stmt"/>
-      <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
-      <line num="14" count="2" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="13" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="3" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
     </file>
@@ -64,14 +58,6 @@
       <line num="48" count="5" type="stmt"/>
       <line num="50" count="1" type="stmt"/>
       <line num="71" count="1" type="stmt"/>
-    </file>
-    <file name="vqv.js" path="/home/bshiromoto/Programação/portfolio/05-project-js-unit-tests/src/vqv.js">
-      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="21" count="1" type="stmt"/>
-      <line num="22" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="23" count="1" type="stmt"/>
-      <line num="25" count="2" type="stmt"/>
-      <line num="29" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
