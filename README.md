@@ -10,7 +10,7 @@ This project was developed as part of the Trybe Web Development course, where I 
 > ⚠️  This repository does not include all the function and tests files present in the original project since the tool used to make the copy from the original repository ommit and/or modify some of the files in order to comply with copyright restrictions.
 
 ## 📝 Installation
-1. Clone the repository
+1. Clone the repository `git clone git@github.com:biancashiromoto/project-js-unit-tests.git`
 2. Install the dependencies by running `npm install`
 3. Run the tests by running `npm test`
 4. Run all tests coverage by running `npm test -- --coverage`
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido como parte do curso de Desenvolvimento Web da Tryb
 > ⚠️  Este repositório não inclui todas as funções e testes presentes no projeto original, já que a ferramenta utilizada para fazer a cópia do repositório original omite e/ou modifica alguns dos arquivos para respeitar as restrições de direitos autorais.
 
 ## 📝 Instalação
-1. Clone o repositório
+1. Clone o repositório `git clone git@github.com:biancashiromoto/project-js-unit-tests.git`
 2. Instale as dependências com o comando `npm install`
 3. Rode os testes com `npm test`
 4. Rode a cobertura de testes com `npm test -- --coverage`
