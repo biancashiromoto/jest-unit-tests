@@ -14,6 +14,10 @@ This project was developed as part of the Trybe Web Development course, where I 
 3. Run the tests by running `npm test`
 <hr>
 
+## 📁 Files
+ - The functions files are in the `src` directory
+ - The tests files are in the `tests` directory
+
 ## 🖱️ Technologies used
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
