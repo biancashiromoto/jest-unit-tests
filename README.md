@@ -12,6 +12,7 @@ This project was developed as part of the Trybe Web Development course, where I 
 1. Clone the repository
 2. Install the dependencies by running `npm install`
 3. Run the tests by running `npm test`
+4. Run all tests coverage by running `npm test -- --coverage`
 <hr>
 
 ## 📁 Files
