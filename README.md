@@ -1,4 +1,4 @@
-# Project: ES6 and Unit Tests 🧪🔬
+# 🧪🔬  ES6 and Unit Tests
 
 ## 🇺🇸 About this project
 This project was developed as part of the Trybe Web Development course, where I implemented various functions and unit tests to guarantee the reliability of the code. The project focused on the following objectives:
